@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Time</string>
+    <string name="order">ЗАКАЗ</string>
+    <string name="quantity">количество</string>
+    <string name="order_summary">итог заказа</string>
+    <string name="whipped_cream">сливки</string>
+    <string name="toppings">топинги</string>
+    <string name="chocolate">шоколад</string>
+    <string name="enter_your_name">введите имя</string>
+    <string name="total">Итого</string>
+    <string name="thank_you">Благодарим вас</string>
+    <string name="name">Имя</string>
+    <string name="coffee_order">Заказ на кофе</string>
+</resources>

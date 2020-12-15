@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee Time</string>
+    <string name="order">ORDER</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="order_summary">order summary</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="toppings">toppings</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="total">Total</string>
+    <string name="thank_you">Thank you</string>
+    <string name="name">Name</string>
+    <string name="coffee_order">Coffee Order</string>
+</resources>
