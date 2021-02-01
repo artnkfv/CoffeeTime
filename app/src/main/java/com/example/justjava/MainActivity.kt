@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun composeEmail(addresses: String, subject: String) {
         val intent = Intent(Intent.ACTION_SENDTO).apply {
-            data = Uri.parse("mailto:artem.nkfv@gmail.com") // only email apps should handle this
+            data = Uri.parse("mailto:sample@mail.com") // only email apps should handle this
             putExtra(Intent.EXTRA_EMAIL, addresses)
             putExtra(Intent.EXTRA_SUBJECT, subject)
             putExtra(Intent.EXTRA_TEXT, massageMail)
